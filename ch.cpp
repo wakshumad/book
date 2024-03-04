@@ -14,6 +14,7 @@ for(int i=0;i<=10;i++)
     cout<<"the number you serch is here "<<num[i];
     else
      cout<<"im sorry there is no such number";
+     cout<<"infact no need to ask sorry just strongly say you are nooot correct ass hole"
 
 return 0;
 }
